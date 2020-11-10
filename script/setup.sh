@@ -69,6 +69,7 @@ echo ">"
 
 echo "> setup ssh"
 yes | ssh-keygen -t rsa -f $SSH_KEY_FILE -N $SSH_KEY_PASS
+yes | chmod 600 $SSH_KEY_FILE
 echo ">"
 
 
