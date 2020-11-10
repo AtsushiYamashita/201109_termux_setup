@@ -11,4 +11,7 @@ Termuxを素早く設定 - Qiita
 Termux - Qiita
 : https://qiita.com/tags/termux
 
+DockerでTermuxのパッケージビルドを試す - Qiita
+: https://qiita.com/iruka/items/8b7a50880139b60012cf
+
 
