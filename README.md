@@ -15,3 +15,8 @@ DockerでTermuxのパッケージビルドを試す - Qiita
 : https://qiita.com/iruka/items/8b7a50880139b60012cf
 
 
+## todo
+
+login
+file server
+auto routing
